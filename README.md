@@ -1,2 +1,2 @@
-# INSTAGRAM
-Todos os posts publicados no meu perfil do instagram: @samuel.mello.dev
+# introduction-channel
+ Todo conteudo e codigo das postagens do meu perfil no instagram.
